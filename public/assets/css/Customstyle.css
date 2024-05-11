@@ -1,0 +1,47 @@
+.navbar{
+    padding : 0px 0px !important;
+}
+
+.navbar-nav .nav-link{
+    padding: 8px 18px !important;
+}
+
+.navbar-nav .nav-link:hover{
+    background-color:#0068d8;
+    display:block;
+}
+
+.nav-item:focus{
+    background-color:#0068d8;
+}
+
+
+.grid-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .iframe-container {
+    height: 300px;
+    margin-bottom: 2%;
+  }
+
+  @media screen and (min-width:1024px) {
+    .grid-container {
+      flex-direction: row;
+    }
+
+    .iframe-container {
+      width: 32%;
+    }
+  }
+
+  .carousel-inner>.item {
+    -webkit-transition: 0s !important;
+    -o-transition: 0s !important;
+    transition: 0s !important;
+}
+
+

@@ -1,0 +1,7 @@
+1. Batasi file extension hanya document+pdf, jangan sampai video/musik bisa untuk semua pengisian form ✅
+2. Nomor telepon dan nomor fax (jangan ke copy) berikan format 022- (split 2 kolom juga bisa) ✅
+3. Kalau misal 0 jadi tidak bisa ✅
+4. Hanya angka pada bagian form keuangan ✅
+5. Pada bagian keuangan diinput otomatis saja 
+6. Wajib login bikin akun, kalau putus internet. Buat dalam bentuk partisi ✅
+7. Mempersiapkan penyimpanan/informasi syarat di awal ✅
